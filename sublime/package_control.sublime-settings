@@ -1,0 +1,14 @@
+# These are the user settings to set 
+{
+   "ensure_newline_at_eof_on_save": true,
+   "font_size": 14,
+   "highlight_modified_tabs": true,
+   "ignored_packages":
+   [
+       "Vintage"
+   ],
+   "scroll_past_end": true,
+   "translate_tabs_to_spaces": true,
+   "trim_automatic_white_space": true,
+   "trim_trailing_white_space_on_save": true
+}
